@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <h1>Tugas 1</h1>
+    <h1>Tugas 2</h1>
     <h3>Nomor 2</h3>
     <?php
     $angkA = 7;
